@@ -77,6 +77,10 @@ nav li {
   padding: .5em;
 }
 
+nav li:hover {
+  cursor: pointer;
+}
+
 li img {
   margin: -10px 0.7em;
   height: 2em;
